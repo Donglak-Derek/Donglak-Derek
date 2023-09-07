@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Native.
 
 - 📫 How to reach me: donglak.han@gmail.com
-- ⚡ Fun fact: I can speak Korean. 
+- ⚡ Fun fact: I love Apple. 
 
 <!--
 **Donglak-Derek/Donglak-Derek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
